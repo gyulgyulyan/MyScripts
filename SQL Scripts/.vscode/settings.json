@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "port": 6980,
+            "previewLimit": 5000,
+            "driver": "ClickHouse",
+            "name": "PND Prod",
+            "server": "https://84.201.173.52:6980",
+            "username": "gyulgyulyan-ro",
+            "database": "inflow",
+            "password": "W+FK&H09J4Tn"
+        }
+    ]
+}
